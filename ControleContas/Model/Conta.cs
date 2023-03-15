@@ -20,8 +20,8 @@ namespace ControleContas.Model
 
         public Conta(string numero, decimal saldo) 
         {
-            _saldo = saldo;
-            _numero = numero;
+            _saldo = 2341.42m;
+            _numero = "654321";
         }
 
         public string Numero {
